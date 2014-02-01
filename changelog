@@ -17,6 +17,8 @@
 @version 0.0.28 - @date 2013/10/25
     site: ajouter une maintenance automatique pendant les actions attacher/détacher
 	site: ajout de la gestion des "specs", objet paramétrable dans la page "Proposer un model"
+	site: monComposant: lorsque l'on choisi un modèle, le champ 'marque' est automatiquement mis à jour
+	admin: dashboard: afficher les modèles qui n'ont pas de marque
 
 @version 0.0.27 - @date 2013/10/25
 	admin/site: créer un objet "specs" avec les méthodes ->input() et ->label()
